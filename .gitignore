@@ -1,0 +1,7 @@
+bin/
+*.class
+.gemini/
+implementation_plan.md
+task.md
+walkthrough.md
+SistemaNotificaciones.png
